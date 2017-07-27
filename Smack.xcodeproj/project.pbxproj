@@ -16,6 +16,7 @@
 		AF03A0B41F2A8B5300027F90 /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF03A0B31F2A8B5300027F90 /* ChatVC.swift */; };
 		AF03A0B61F2A8B6300027F90 /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF03A0B51F2A8B6300027F90 /* ChannelVC.swift */; };
 		AF03A0B71F2A8DE900027F90 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AF03A0AE1F2A86BC00027F90 /* SWRevealViewController.m */; };
+		AF03A0B91F2A938C00027F90 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF03A0B81F2A938C00027F90 /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		AF03A0AF1F2A86BD00027F90 /* SWRevealViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		AF03A0B31F2A8B5300027F90 /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		AF03A0B51F2A8B6300027F90 /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		AF03A0B81F2A938C00027F90 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 		AF03A0B11F2A8B2B00027F90 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				AF03A0B81F2A938C00027F90 /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				AF03A0B61F2A8B6300027F90 /* ChannelVC.swift in Sources */,
 				AF03A0B41F2A8B5300027F90 /* ChatVC.swift in Sources */,
+				AF03A0B91F2A938C00027F90 /* GradientView.swift in Sources */,
 				AF03A0B71F2A8DE900027F90 /* SWRevealViewController.m in Sources */,
 				AF03A09D1F2A7F4C00027F90 /* ViewController.swift in Sources */,
 				AF03A09B1F2A7F4C00027F90 /* AppDelegate.swift in Sources */,
