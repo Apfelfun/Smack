@@ -19,6 +19,7 @@
 		AF03A0B91F2A938C00027F90 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF03A0B81F2A938C00027F90 /* GradientView.swift */; };
 		AF1DB43B1F2B79B80046C80E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF1DB43A1F2B79B80046C80E /* Constants.swift */; };
 		AF1DB43D1F2B7F670046C80E /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF1DB43C1F2B7F670046C80E /* LoginVC.swift */; };
+		AF50CDEC1F2CB3D300DAE75A /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF50CDEB1F2CB3D300DAE75A /* CreateAccountVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		AF03A0B81F2A938C00027F90 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		AF1DB43A1F2B79B80046C80E /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		AF1DB43C1F2B7F670046C80E /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		AF50CDEB1F2CB3D300DAE75A /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 				AF03A0B31F2A8B5300027F90 /* ChatVC.swift */,
 				AF03A0B51F2A8B6300027F90 /* ChannelVC.swift */,
 				AF1DB43C1F2B7F670046C80E /* LoginVC.swift */,
+				AF50CDEB1F2CB3D300DAE75A /* CreateAccountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				AF1DB43D1F2B7F670046C80E /* LoginVC.swift in Sources */,
 				AF03A0B91F2A938C00027F90 /* GradientView.swift in Sources */,
 				AF03A0B71F2A8DE900027F90 /* SWRevealViewController.m in Sources */,
+				AF50CDEC1F2CB3D300DAE75A /* CreateAccountVC.swift in Sources */,
 				AF1DB43B1F2B79B80046C80E /* Constants.swift in Sources */,
 				AF03A09D1F2A7F4C00027F90 /* ViewController.swift in Sources */,
 				AF03A09B1F2A7F4C00027F90 /* AppDelegate.swift in Sources */,
