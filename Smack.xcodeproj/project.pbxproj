@@ -21,6 +21,7 @@
 		AF1DB43D1F2B7F670046C80E /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF1DB43C1F2B7F670046C80E /* LoginVC.swift */; };
 		AF50CDEC1F2CB3D300DAE75A /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF50CDEB1F2CB3D300DAE75A /* CreateAccountVC.swift */; };
 		AF9EC7791F2CDE0E000FD74C /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9EC7781F2CDE0E000FD74C /* AuthService.swift */; };
+		AFD463C61F2E042900A8FB1F /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFD463C51F2E042900A8FB1F /* RoundedButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		AF1DB43C1F2B7F670046C80E /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		AF50CDEB1F2CB3D300DAE75A /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 		AF9EC7781F2CDE0E000FD74C /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
+		AFD463C51F2E042900A8FB1F /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				AF03A0B81F2A938C00027F90 /* GradientView.swift */,
+				AFD463C51F2E042900A8FB1F /* RoundedButton.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 				AF03A0B91F2A938C00027F90 /* GradientView.swift in Sources */,
 				AF03A0B71F2A8DE900027F90 /* SWRevealViewController.m in Sources */,
 				AF50CDEC1F2CB3D300DAE75A /* CreateAccountVC.swift in Sources */,
+				AFD463C61F2E042900A8FB1F /* RoundedButton.swift in Sources */,
 				AF1DB43B1F2B79B80046C80E /* Constants.swift in Sources */,
 				AF9EC7791F2CDE0E000FD74C /* AuthService.swift in Sources */,
 				AF03A09D1F2A7F4C00027F90 /* ViewController.swift in Sources */,
